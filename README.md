@@ -22,3 +22,6 @@ Controlpanel is a robust web application designed to manage user accounts effici
 - Navigate to the registration page to create a new user account.
 - Use the login page to access your account.
 - As an admin, use the dashboard to manage user accounts: add new users, edit existing user data, delete users, or search for specific users based on criteria.
+
+## **Video**
+- https://drive.google.com/drive/u/0/home
