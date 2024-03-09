@@ -5,7 +5,7 @@
     if($_SERVER['REQUEST_METHOD']=='POST')
     {
         // Connect to DB
-        $conn = mysqli_connect("localhost", "root", "J43_/brrI*8gJHPb", "blog");
+        $conn = mysqli_connect("localhost", "root", "12345", "blog");
         if (! $conn) {
             echo mysqli_connect_error();
             exit;
